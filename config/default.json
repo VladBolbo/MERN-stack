@@ -1,0 +1,7 @@
+{
+    "mongoURI":
+        "mongodb://VladB:parola123@ds137089.mlab.com:37089/mern-stack",
+    "PORT":
+        3000
+
+}
